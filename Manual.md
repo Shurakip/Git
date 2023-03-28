@@ -6,3 +6,4 @@
 * git branch - посмотреть ветки
 * git branch "text_formatting" - создать новую ветку "text_formatting"
 * git checkout text_formatting - перейти на ветку "text_formatting"
+* **Что еще можно сделать**
